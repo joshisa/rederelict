@@ -1,0 +1,3 @@
+[submodule "git-book-list"]
+	path = git-book-list
+	url = https://bitbucket.org/ellysh/git-book-list.git
